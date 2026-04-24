@@ -14,7 +14,7 @@ Interface desenvolvida com foco em **UI/UX**, priorizando a responsividade e uma
 ## ⚙️ Back-end (Server-Side)
 API RESTful responsável por processar as regras de negócio e garantir a integridade das informações.
 
-* **Java 17+:** Linguagem robusta para o desenvolvimento do core da aplicação.
+* **Java 21+:** Linguagem robusta para o desenvolvimento do core da aplicação.
 * **Spring Boot:** Framework para agilizar a criação dos endpoints e configuração do servidor.
 * **Spring Data JPA:** Camada de persistência para comunicação eficiente com o banco de dados.
 
