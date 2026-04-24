@@ -32,7 +32,7 @@ git clone https://github.com/seu-usuario/projeto-ads-produto.git
 ```
 
 ### 2. Back-end (Spring Boot)
-1. Certifique-se de ter o **JDK 17** e o **MariaDB** instalados.
+1. Certifique-se de ter o **JDK 21** e o **MariaDB** instalados.
 2. Configure o banco de dados no arquivo `src/main/resources/application.properties`.
 3. Execute a aplicação através da sua IDE ou via terminal:
    ```bash
